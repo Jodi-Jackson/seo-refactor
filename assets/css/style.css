@@ -89,7 +89,7 @@ img  {
     position: relative;
     margin-bottom: 30px;
     padding: 50px;
-    height: 330px;
+    height: 300px;
     background-color: #0072bb;
     color: #ffffff;
     width: 100%;
@@ -133,7 +133,7 @@ img  {
 
 .benefits img{
     display: block;
-    margin: 10px auto;
+    margin: 6px auto;
     max-width: 150px;
 }
 
@@ -145,13 +145,16 @@ img  {
 /*end  benefits section styling*/
 
 
-.footer {
+/*start footer styling*/
+
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
+/*end footer styling*/
